@@ -1,0 +1,26 @@
+h1 {
+	color: blue;
+	text-align: left;
+}
+
+h4 {
+	font-size: 15px;
+}
+
+.bold {
+	font-style: bold;
+}
+
+.sidebar {
+	width: 30%;
+	float: right;
+	background-color: green;
+}
+.column {
+	width: 300px;
+	float: left;
+}
+
+.haiku {
+	float: bottom left;
+}
