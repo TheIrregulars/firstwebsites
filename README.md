@@ -17,5 +17,4 @@ HTML, CSS
 *{Determine the license under which this app can be used. See below for licensing details.}*
 
 Copywrite (c) 2016 **_{List of contributors or Company name}**
-# webpages
-# webpages1
+
