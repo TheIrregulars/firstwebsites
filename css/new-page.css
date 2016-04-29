@@ -1,0 +1,13 @@
+#click-interesting {
+	border-style: solid;
+	border-color: black;
+	background-color: yellow;
+	color: black;
+}
+
+#interesting p{
+	cursor: pointer;
+}
+#interesting p:hover {
+	text-decoration: underline;
+}
